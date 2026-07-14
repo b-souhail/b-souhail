@@ -46,7 +46,7 @@
   <li>📫 How to reach me: <strong><a href="mailto:b.souhail.dev@gmail.com"><code>b.souhail.dev@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. </code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
-  <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
+  <li>⚡ Fun fact: <code>🦀 I love Rust's ownership, but goroutines are my crush. 💙</code>!</li>
 </ul>
 <br>
 <div class="markdown-heading" dir="auto">
