@@ -40,7 +40,7 @@ I'm particularly interested in **Go, Rust and JavaScript/TypeScript**, and I lik
 * 📚 Currently improving my knowledge of **Cloud and DevOps**
 * 🌍 Fluent in **French, English, Spanish and Arabic**
 * 📫 Currently open to software engineering opportunities
-* ⚡ Fun fact: `I love Rust's ownership, but goroutines are my crush.` 💙
+* ⚡ Fun fact: `I love Rust's ownership 🦀, but goroutines are my crush.` 💙
 
 ---
 
