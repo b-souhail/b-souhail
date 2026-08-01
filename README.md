@@ -190,10 +190,6 @@ GoForge combines a CLI, templates and blueprints to automate project creation an
     <img src="https://img.shields.io/badge/LinkedIn-Souhail%20B.-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/b-souhail/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-b--souhail-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
   <a href="mailto:b.souhail.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-b.souhail.dev%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -203,8 +199,6 @@ GoForge combines a CLI, templates and blueprints to automate project creation an
   📧 <strong>b.souhail.dev@gmail.com</strong>
   &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/souhail-b-77232429b/">linkedin.com/in/souhail-b-77232429b</a>
-  &nbsp;·&nbsp;
-  🐙 <a href="https://github.com/b-souhail/">github.com/b-souhail</a>
 </p>
 
 ---
