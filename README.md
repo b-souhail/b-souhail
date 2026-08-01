@@ -44,28 +44,6 @@ I'm particularly interested in **Go, Rust and JavaScript/TypeScript**, and I lik
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🛠️ GoForge
-
-**Open-source developer tooling project for generating and evolving Go applications.**
-
-GoForge combines a CLI, templates and blueprints to automate project creation and reduce repetitive development work.
-
-`Go` `Code Generation` `Scaffolding` `Templates` `Blueprints` `CLI`
-
-<p>
-  <a href="https://github.com/b-souhail/goforge">
-    <img src="https://img.shields.io/badge/View%20Project-GoForge-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoForge" />
-  </a>
-  <img src="https://img.shields.io/github/stars/b-souhail/goforge?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/b-souhail/goforge?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/b-souhail/goforge?style=for-the-badge" />
-</p>
-
-
----
-
 ### 🛠️ Stack & Tools
 
 #### 🚀 Main Languages
@@ -182,6 +160,28 @@ GoForge combines a CLI, templates and blueprints to automate project creation an
 </table>
 
 ---
+
+### 🚀 Featured Projects
+
+#### 🛠️ GoForge
+
+**Open-source developer tooling project for generating and evolving Go applications.**
+
+GoForge combines a CLI, templates and blueprints to automate project creation and reduce repetitive development work.
+
+`Go` `Code Generation` `Scaffolding` `Templates` `Blueprints` `CLI`
+
+<p>
+  <a href="https://github.com/b-souhail/goforge">
+    <img src="https://img.shields.io/badge/View%20Project-GoForge-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoForge" />
+  </a>
+  <img src="https://img.shields.io/github/stars/b-souhail/goforge?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/b-souhail/goforge?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/b-souhail/goforge?style=for-the-badge" />
+</p>
+
+---
+
 
 ### 📩 Contact me
 
