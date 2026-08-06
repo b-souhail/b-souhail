@@ -33,11 +33,8 @@ I'm particularly interested in **Go, Rust and JavaScript/TypeScript**, and I lik
 
 * 🎓 Trained at **Zone01 Rouen Normandie**, through intensive project-based and peer-to-peer learning
 * 🛠️ Strong interest in **Go**, backend development and modern web technologies
-* 💻 I enjoy building **APIs, real-time applications, WebSocket-based features and developer tools**
-* 🌐 Comfortable working across **backend and frontend** depending on the project
 * 💼 Professional experience at **ABIsoft** as a Full-Stack Developer intern
 * 🔧 I like learning through hands-on projects, experimentation and solving technical problems
-* 📚 Currently improving my knowledge of **Cloud and DevOps**
 * 🌍 Fluent in **French, English, Spanish and Arabic**
 * 📫 Currently open to software engineering opportunities
 * ⚡ Fun fact: `I love Rust's ownership 🦀, but goroutines are my crush.` 💙
